@@ -1,7 +1,7 @@
-<h1 align="center"> Hi! My name is Guilherme Ferreira. </h1>
+<h1 text-align="center"> Hi! My name is Guilherme Ferreira.</h1>
 
 <div align="center">
-  <a href="https://github.com/GK-Fereira">
+  <a href="https://github.com/GK-Ferreira">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=GK-Ferreira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GK-Ferreira&layout=compact&langs_count=7&theme=react" />
 
