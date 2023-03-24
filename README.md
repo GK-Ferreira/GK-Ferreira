@@ -1,4 +1,4 @@
-<h1 style="text-align:center"> Hi! My name is Guilherme Ferreira.</h1>
+<h1 text-align="center"> Hi! My name is Guilherme Ferreira.</h1>
 
 <div align="center">
   <a href="https://github.com/GK-Ferreira">
